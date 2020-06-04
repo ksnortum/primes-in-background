@@ -1,4 +1,4 @@
-package background;
+package net.snortum.javafx.background;
 
 import javafx.application.Application;
 import javafx.concurrent.Task;
